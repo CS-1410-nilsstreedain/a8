@@ -289,7 +289,6 @@ public class Battle extends JFrame implements ActionListener {
 			setComputerMoveType("lastChoice");
 		}
 		setPlayerLastMove(getPlayerMove());
-
 	}
 
 }
